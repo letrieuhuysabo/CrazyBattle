@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - PlayerHurtBox
+  - WeaponContainer
+  - BossHurtBox
+  - WeaponAttacktion
+  - SkillAttacktion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - WeaponContainer
+  - Land
+  - WeaponAttacktion
+  - PickWeapon
+  - Boss
+  - BossHurtBox
+  - BossAttacktion
+  - NonePhysics
+  - CharacterSkill
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 1439885155
+    locked: 0
+  - name: UI
+    uniqueID: 2398111377
+    locked: 0
+  - name: Skill
+    uniqueID: 816933197
+    locked: 0
+  m_RenderingLayers:
+  - Default
